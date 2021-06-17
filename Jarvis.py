@@ -1,3 +1,6 @@
+# pip install speechrecognition
+# pip install pyaudio
+
 
 import tkinter as tk
 from tkinter import Listbox, Scrollbar, ttk
